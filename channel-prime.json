@@ -1,14 +1,6 @@
 {
   "channels": [
-     {
-      "title": "Owner Notice",
-      "group": "Owner",
-      "logo": "https://en.pimg.jp/113/734/037/1/113734037.jpg",
-      "type": "hls",
-      "url": "https://www.shutterstock.com/shutterstock/videos/3563324707/preview/stock-footage-animated-stream-starting-soon-on-black-background-with-grid.mp4",
-      "user_agent": "Sagor"
-     }
-    },   
+     
     {
       "title": "Bein sports 1 AUSTRALIA",
       "group": "Sports",
