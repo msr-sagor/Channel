@@ -17,11 +17,11 @@
       "user_agent": "ExampleAgent/1.0"
     },
     {
-      "title": "Example HLS Channel 3",
+      "title": "BanU19 vs IndU19",
       "group": "Live Sports",
-      "logo": "",
+      "logo": "https://i.ytimg.com/vi/xYE0DoCkSvI/maxresdefault.jpg",
       "type": "hls",
-      "url": "",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747600684/ei/zPApaKSGIPjh1d8PxI7pqAk/ip/103.161.106.190/id/xYE0DoCkSvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/siu/1/bui/AecWEAbxiMsyk7V61dC6BJz8g-q4qYK1ETnWAasAC3SB2X5n39ALPnUXPFZVD4Vwj6c4Fe3YPg/spc/wk1kZvlhi0dC7bVlaRrPcprhmOQBGFhsmx0KpGfcN0N_MgvdvU4b1ybZk1cErMfKjpjj/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSY5BJSpOVoDLWH1nO0Qx9FZy4HbrsGg_cbSLI0S53GcCIDNavkdDrsvkwwyj0847mAmj10Tt3mtdZ2hD8eobxeBo/file/index.m3u8",
       "user_agent": "ExampleAgent/1.0"
     },
     {
