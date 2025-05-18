@@ -13,7 +13,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/hls2.png",
       "type": "hls",
-      "url": "https://example.com/streams/hls2.m3u8",
+      "url": "",
       "user_agent": "ExampleAgent/1.0"
     },
     {
@@ -21,7 +21,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/hls3.png",
       "type": "hls",
-      "url": "https://example.com/streams/hls3.m3u8",
+      "url": "",
       "user_agent": "ExampleAgent/1.0"
     },
     {
@@ -29,7 +29,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/hls4.png",
       "type": "hls",
-      "url": "https://example.com/streams/hls4.m3u8",
+      "url": "",
       "user_agent": "ExampleAgent/1.0"
     },
     {
@@ -37,7 +37,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/hls5.png",
       "type": "hls",
-      "url": "https://example.com/streams/hls5.m3u8",
+      "url": "",
       "user_agent": "ExampleAgent/1.0"
     },
     {
@@ -45,7 +45,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/dash1.png",
       "type": "mpd",
-      "url": "https://example.com/streams/dash1.mpd",
+      "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
@@ -69,7 +69,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/dash3.png",
       "type": "mpd",
-      "url": "https://example.com/streams/dash3.mpd",
+      "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
@@ -81,7 +81,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/dash4.png",
       "type": "mpd",
-      "url": "https://example.com/streams/dash4.mpd",
+      "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
@@ -93,7 +93,7 @@
       "group": "Live Sports",
       "logo": "https://example.com/logos/dash5.png",
       "type": "mpd",
-      "url": "https://example.com/streams/dash5.mpd",
+      "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
