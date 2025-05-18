@@ -9,9 +9,9 @@
       "user_agent": "sagor"
     },
     {
-      "title": "Example HLS Channel 2",
+      "title": "",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/hls2.png",
+      "logo": "",
       "type": "hls",
       "url": "",
       "user_agent": "ExampleAgent/1.0"
@@ -19,7 +19,7 @@
     {
       "title": "Example HLS Channel 3",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/hls3.png",
+      "logo": "",
       "type": "hls",
       "url": "",
       "user_agent": "ExampleAgent/1.0"
@@ -27,7 +27,7 @@
     {
       "title": "Example HLS Channel 4",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/hls4.png",
+      "logo": "",
       "type": "hls",
       "url": "",
       "user_agent": "ExampleAgent/1.0"
@@ -35,7 +35,7 @@
     {
       "title": "Example HLS Channel 5",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/hls5.png",
+      "logo": "",
       "type": "hls",
       "url": "",
       "user_agent": "ExampleAgent/1.0"
@@ -43,7 +43,7 @@
     {
       "title": "Example DASH Channel 1",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/dash1.png",
+      "logo": "",
       "type": "mpd",
       "url": "",
       "user_agent": "ExampleAgent/1.0",
@@ -55,9 +55,9 @@
     {
       "title": "Example DASH Channel 2",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/dash2.png",
+      "logo": "",
       "type": "mpd",
-      "url": "https://example.com/streams/dash2.mpd",
+      "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
@@ -67,7 +67,7 @@
     {
       "title": "Example DASH Channel 3",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/dash3.png",
+      "logo": "",
       "type": "mpd",
       "url": "",
       "user_agent": "ExampleAgent/1.0",
@@ -79,7 +79,7 @@
     {
       "title": "Example DASH Channel 4",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/dash4.png",
+      "logo": "",
       "type": "mpd",
       "url": "",
       "user_agent": "ExampleAgent/1.0",
@@ -91,7 +91,7 @@
     {
       "title": "Example DASH Channel 5",
       "group": "Live Sports",
-      "logo": "https://example.com/logos/dash5.png",
+      "logo": "",
       "type": "mpd",
       "url": "",
       "user_agent": "ExampleAgent/1.0",
