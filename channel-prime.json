@@ -41,15 +41,15 @@
       "user_agent": "ExampleAgent/1.0"
     },
     {
-      "title": "Example DASH Channel 1",
+      "title": "Astro Cricket",
       "group": "Live Sports",
-      "logo": "",
+      "logo": "https://i.postimg.cc/dVpLVBV2/MD-s-AIDUR-RAHAMAN-SAGOR-20250427-212546-0000.png",
       "type": "mpd",
-      "url": "",
-      "user_agent": "ExampleAgent/1.0",
+      "url": "https://singapore-4y8o.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv",
       "drm": {
         "type": "clearkey",
-        "license_key": "key1:license1"
+        "license_key": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
       }
     },
     {
