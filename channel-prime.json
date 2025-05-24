@@ -53,15 +53,15 @@
       }
     },
     {
-      "title": "Example DASH Channel 2",
+      "title": "Willow by Cricbuzz",
       "group": "Live Sports",
       "logo": "",
-      "type": "mpd",
+      "type": "https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xxnxvtlzdt/out/v1/abfcf5c1c13a43c0ba25886d1d3ff783/cenc.mpd",
       "url": "",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
-        "license_key": "key2:license2"
+        "license_key": "dc6730e151912178e15badc03ac790c5:eebfe14362379376c93625dd1017160e"
       }
     },
     {
