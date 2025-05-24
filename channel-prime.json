@@ -55,10 +55,10 @@
     {
       "title": "Willow by Cricbuzz",
       "group": "Live Sports",
-      "logo": "",
+      "logo": "https://uccricket.live/wp-content/uploads/2025/05/Punjab-Kings-vs-Delhi-Capitals.webp",
       "type": "mpd",
       "url": "https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xxnxvtlzdt/out/v1/abfcf5c1c13a43c0ba25886d1d3ff783/cenc.mpd",
-      "user_agent": "ExampleAgent/1.0",
+      "user_agent": "Sagor",
       "drm": {
         "type": "clearkey",
         "license_key": "dc6730e151912178e15badc03ac790c5:eebfe14362379376c93625dd1017160e"
