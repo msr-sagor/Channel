@@ -69,11 +69,11 @@
       "group": "Live Sports",
       "logo": "https://gxr.asset.viewlift.com/images/2025/04/19/LALIGA-Generic-Poster-1745095069712.jpg?impolicy=resize&w=1920&h=1080",
       "type": "mpd",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd",
-      "user_agent": "sagor",
+      "url": "https://singapore-rtq4.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv",
       "drm": {
         "type": "clearkey",
-        "license_key": "fe4e1cd2eea9e7ac5b365c261e41c57c:38dd1a0751aa0f04f2035636cf0608eb"
+        "license_key": "20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337"
       }
     },
     {
