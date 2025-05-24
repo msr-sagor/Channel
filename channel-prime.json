@@ -56,8 +56,8 @@
       "title": "Willow by Cricbuzz",
       "group": "Live Sports",
       "logo": "",
-      "type": "https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xxnxvtlzdt/out/v1/abfcf5c1c13a43c0ba25886d1d3ff783/cenc.mpd",
-      "url": "",
+      "type": "mpd",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xxnxvtlzdt/out/v1/abfcf5c1c13a43c0ba25886d1d3ff783/cenc.mpd",
       "user_agent": "ExampleAgent/1.0",
       "drm": {
         "type": "clearkey",
